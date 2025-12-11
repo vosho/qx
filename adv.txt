@@ -99,3 +99,42 @@ host-suffix, ip.ztap.cn, proxy
 host-suffix, umeng.com, reject
 host-suffix, ugdtimg.com, reject
 host-suffix, umengcloud.com, reject
+
+#GUDONG
+host-suffix, shunchangzhixing.com, reject
+host-suffix, iggrowth.cn, reject
+host-suffix, yunxish.com, reject
+host-suffix, ctobsnssdk.com, reject
+host-suffix, pangolin-sdk-toutiao.com, reject
+host-suffix, 58iclick.com, reject
+host-suffix, volccdn.com, reject
+host-suffix, bytescm.com, reject
+host-suffix, app-measurement.com, reject
+
+
+#CaiNiao
+host-suffix, h-adashx.ut.cainiao.com, reject
+host-suffix, mtop-bff-mtop.cainiao.com, reject
+host-suffix, tanx.com, reject
+host-suffix, caps-mtop.cainiao.com, reject
+host-suffix, log.aliyuncs.com, reject
+host-suffix, cn-acs.m.cainiao.com, reject
+host-suffix, tenant1-bff-mtop.cainiao.com, reject
+
+
+#Baidu Map
+host-suffix, lc.map.baidu.com, reject
+host-suffix, cnloc.map.baidu.com, reject
+host-suffix, bgg.baidu.com, reject
+host-suffix, ecom.map.baidu.com, reject
+host-suffix, afdconf.baidu.com, reject
+host-suffix, afd.baidu.com, reject
+host-suffix, als.baidu.com, reject
+host-suffix, 1rtb.net, reject
+host-suffix, ubixioe.com, reject
+host-suffix, sofire.baidu.com, reject
+host-suffix, upl.baidu.com, reject
+host-suffix, qchannel01.cn, reject
+host-suffix, qchannel02.cn, reject
+host-suffix, qchannel03.cn, reject
+host-suffix, bcebos.com, reject
