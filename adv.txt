@@ -115,11 +115,20 @@ host-suffix, app-measurement.com, reject
 #CaiNiao
 host-suffix, h-adashx.ut.cainiao.com, reject
 host-suffix, mtop-bff-mtop.cainiao.com, reject
+host-suffix, community-mtop.cainiao.com, reject
 host-suffix, tanx.com, reject
 host-suffix, caps-mtop.cainiao.com, reject
 host-suffix, log.aliyuncs.com, reject
 host-suffix, cn-acs.m.cainiao.com, reject
 host-suffix, tenant1-bff-mtop.cainiao.com, reject
+host-suffix, adashx.ut.cainiao.com, reject
+host-suffix, unet.quark.cn, reject
+host-suffix, netflow-mtop.cainiao.com, reject
+host-suffix, msgac.m.taobao.com, reject
+host-suffix, e2e-mtop.cainiao.com, reject
+host-suffix, pangolin-sdk-toutiao-b.com, reject
+host-suffix, nbcps-mtop.cainiao.com, reject
+host-suffix, page.cainiao.com, reject
 
 
 #Baidu Map
