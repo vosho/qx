@@ -1,0 +1,4 @@
+host-suffix, googleapis.com, proxy
+host-suffix, google.com, proxy
+host-suffix, youtube.com, proxy
+host-suffix, ytimg.com, proxy

@@ -75,7 +75,6 @@ host, applecsb.crm.189.cn, reject
 host, mdap.alipay.com, reject
 host, gw.alipayobjects.com, reject
 host, dualstack-restios.amap.com, reject
-host, amdc.m.taobao.com, reject
 host, mamasearchad.cloudvideocdn.taobao.com, reject
 host-suffix, s1.xmcdn.com, reject
 host-suffix, ctyunapi.cn, reject
@@ -129,7 +128,7 @@ host-suffix, e2e-mtop.cainiao.com, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
 host-suffix, nbcps-mtop.cainiao.com, reject
 host-suffix, page.cainiao.com, reject
-
+host, amdc.m.taobao.com, reject
 
 #Baidu Map
 host-suffix, lc.map.baidu.com, reject
