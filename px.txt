@@ -1,4 +1,34 @@
+#GOOGLE
 host-suffix, googleapis.com, proxy
+host-suffix, gstatic.com, proxy
 host-suffix, google.com, proxy
+host-suffix, google.com.hk, proxy
 host-suffix, youtube.com, proxy
+host-suffix, appspot.com, proxy
 host-suffix, ytimg.com, proxy
+host-suffix, chrome.com, proxy
+host-suffix, google, proxy
+host-suffix, google-analytics.com, proxy
+
+#X
+host-suffix, x.com, proxy
+host-suffix, twitter.com, proxy
+host-suffix, twimg.com, proxy
+
+#Reddit
+host-suffix, reddit.com, proxy
+host-suffix, redditstatic.com, proxy
+host-suffix, redditmedia.com, proxy
+host-suffix, redd.it, proxy
+host-suffix, redditspace.com, proxy
+
+#LinkedIn
+host-suffix, linkedin.com, proxy
+
+#chatgpt
+host-suffix, oaiusercontent.com, proxy
+host-suffix, chatgpt.com, proxy
+
+host-suffix, linux.do, proxy
+host-suffix, hoppscotch.io, proxy
+host-suffix, tradingview.com, proxy

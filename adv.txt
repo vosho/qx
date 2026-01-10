@@ -111,6 +111,12 @@ host-suffix, bytescm.com, reject
 host-suffix, app-measurement.com, reject
 
 
+#LanRen
+host-suffix, ad.tencentmusic.com, reject
+host-suffix, tmead.y.qq.com, reject
+host-suffix, report.tencentmusic.com, reject
+
+
 #CaiNiao
 host-suffix, h-adashx.ut.cainiao.com, reject
 host-suffix, mtop-bff-mtop.cainiao.com, reject
@@ -128,7 +134,13 @@ host-suffix, e2e-mtop.cainiao.com, reject
 host-suffix, pangolin-sdk-toutiao-b.com, reject
 host-suffix, nbcps-mtop.cainiao.com, reject
 host-suffix, page.cainiao.com, reject
-host, amdc.m.taobao.com, reject
+#host, amdc.m.taobao.com, reject
+host-suffix, mdap.mpaas.cn-hangzhou.aliyuncs.com, reject
+host-suffix, mpaasapi.mpaas.cn-hangzhou.aliyuncs.com, reject
+host-suffix, mssdk.volces.com, reject
+host-suffix, msgacs.m.taobao.com, reject
+host-suffix, gguser-mtop.cainiao.com, reject
+host-suffix, dypnsapi.aliyuncs.com, reject
 
 #Baidu Map
 host-suffix, lc.map.baidu.com, reject
