@@ -158,3 +158,8 @@ host-suffix, qchannel01.cn, reject
 host-suffix, qchannel02.cn, reject
 host-suffix, qchannel03.cn, reject
 host-suffix, bcebos.com, reject
+
+#Sunlogin
+host-suffix, sigmob.cn, reject
+host-suffix, weilitoutiao.net, reject
+host-suffix, yuelanxinghe.com, reject
