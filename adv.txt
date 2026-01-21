@@ -110,13 +110,6 @@ host-suffix, volccdn.com, reject
 host-suffix, bytescm.com, reject
 host-suffix, app-measurement.com, reject
 
-
-#LanRen
-host-suffix, ad.tencentmusic.com, reject
-host-suffix, tmead.y.qq.com, reject
-host-suffix, report.tencentmusic.com, reject
-
-
 #CaiNiao
 host-suffix, h-adashx.ut.cainiao.com, reject
 host-suffix, mtop-bff-mtop.cainiao.com, reject
@@ -163,3 +156,10 @@ host-suffix, bcebos.com, reject
 host-suffix, sigmob.cn, reject
 host-suffix, weilitoutiao.net, reject
 host-suffix, yuelanxinghe.com, reject
+
+#LanRenDingShu
+host-suffix, ad.tencentmusic.com, reject
+host-suffix, tmead.y.qq.com, reject
+host-suffix, tmeadcomm.y.qq.com, reject
+host-suffix, adsmind.gdtimg.com, reject
+host-suffix, report.tencentmusic.com, reject

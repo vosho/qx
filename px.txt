@@ -7,7 +7,9 @@ host-suffix, youtube.com, proxy
 host-suffix, appspot.com, proxy
 host-suffix, ytimg.com, proxy
 host-suffix, chrome.com, proxy
+host-suffix, google.dev, proxy
 host-suffix, google, proxy
+host-suffix, withgoogle.com, proxy
 host-suffix, google-analytics.com, proxy
 
 #X
@@ -32,3 +34,6 @@ host-suffix, chatgpt.com, proxy
 host-suffix, linux.do, proxy
 host-suffix, hoppscotch.io, proxy
 host-suffix, tradingview.com, proxy
+
+#Imgr
+host-suffix, imgur.com, proxy
