@@ -163,3 +163,6 @@ host-suffix, tmead.y.qq.com, reject
 host-suffix, tmeadcomm.y.qq.com, reject
 host-suffix, adsmind.gdtimg.com, reject
 host-suffix, report.tencentmusic.com, reject
+
+#Google
+host-suffix, googleadservices.com, reject
