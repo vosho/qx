@@ -11,6 +11,7 @@ host-suffix, google.dev, proxy
 host-suffix, google, proxy
 host-suffix, withgoogle.com, proxy
 host-suffix, google-analytics.com, proxy
+host-suffix, recaptcha.com, proxy
 
 #X
 host-suffix, x.com, proxy
@@ -37,3 +38,10 @@ host-suffix, tradingview.com, proxy
 
 #Imgr
 host-suffix, imgur.com, proxy
+
+#Pinterest
+host-suffix, pinterest.com, proxy
+host-suffix, pinimg.com, proxy
+
+#behance
+host-suffix, behance.net, proxy
