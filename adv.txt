@@ -70,10 +70,8 @@ host, dev.to, proxy
 host-suffix, imdb.com, proxy
 host-suffix, medium.com, proxy
 host, minorshort.weixin.qq.com, direct
-host, shmmsns.qpic.cn, reject
 host, applecsb.crm.189.cn, reject
 host, mdap.alipay.com, reject
-host, gw.alipayobjects.com, reject
 host, dualstack-restios.amap.com, reject
 host, mamasearchad.cloudvideocdn.taobao.com, reject
 host-suffix, s1.xmcdn.com, reject
