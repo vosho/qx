@@ -163,3 +163,8 @@ host-suffix, adsmind.gdtimg.com, reject
 
 #Google
 host-suffix, googleadservices.com, reject
+
+
+#Sogou
+host-suffix, sogou.com, reject
+

@@ -45,3 +45,11 @@ host-suffix, pinimg.com, proxy
 
 #behance
 host-suffix, behance.net, proxy
+
+#Moltbook
+host-suffix, moltbook.com, proxy
+
+#Claude
+host-suffix, claude.com, proxy
+host-suffix, claude.ai, proxy
+
