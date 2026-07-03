@@ -53,3 +53,5 @@ host-suffix, moltbook.com, proxy
 host-suffix, claude.com, proxy
 host-suffix, claude.ai, proxy
 
+#Git Hub
+host-suffix, github.com, proxy
