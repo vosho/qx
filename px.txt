@@ -17,6 +17,7 @@ host-suffix, recaptcha.com, proxy
 host-suffix, x.com, proxy
 host-suffix, twitter.com, proxy
 host-suffix, twimg.com, proxy
+host-suffix, x.ai, proxy
 
 #Reddit
 host-suffix, reddit.com, proxy
